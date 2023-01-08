@@ -6,16 +6,10 @@
 - Experienced with FreeRTOS
 - OOP design patterns with C++
 
-## :computer: Projects
+## :computer: Project Highlights
 - [Serial Snooper](https://github.com/can-caglar/Data-Logger-STM32): An RS-232 logger which saves data to an SD card using an STM32, developed via TDD.
 - [ESP32 Based Dash Cam](https://github.com/can-caglar/dashcam): [In progress] A low-cost dash-cam based on an ESP32.
 - [Pong Game with SDL2](https://github.com/can-caglar/Pong-Game): A Pong Game written in C++, making use of UML diagrams,  SOLID principles and designing in-game physics.
-
-## :bar_chart: Experience & Education
-- Software Development Engineer at Buhler Group (2021-Present)
-- Electronic Design Engineer at Avire Global (2020- 2021)
-- Research & Development Engineer at Performance Designed Products (2016 - 2020)
-- MEng (Hons) Electronic & Electrical Engineering at the University of Leeds (2012 - 2016)
 
 ## :notebook: Currently Learning
 - Concurrency design patterns
