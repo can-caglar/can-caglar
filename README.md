@@ -1,7 +1,7 @@
 # :wave: Welcome to my Github repository
 
 ## :book: Skills
-- Bare-metal C: STM32, ESP32, ATxMega
+- Bare-metal C experience with STM32, ESP32, ATxMega
 - Proficient in embedded Test Driven Development (TDD)
 - Experienced with FreeRTOS
 - OOP design patterns with C++
