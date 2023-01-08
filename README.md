@@ -16,12 +16,6 @@
 - Object oriented design patterns
 - Digital electronics
 
-## :wrench: Currently Working On
-- Learning!
-
-## :email: Contact
-- Email: jhan.charler@gmail.com
-
 ## :heart: Passion
 
 I am passionate about writing clean, efficient, and well-tested code for embedded systems. 
