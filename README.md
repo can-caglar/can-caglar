@@ -14,7 +14,7 @@
 ## :notebook: Currently Learning
 - Concurrency design patterns
 - Object oriented design patterns
-- Low-level electronics
+- Digital electronics
 
 ## :wrench: Currently Working On
 - Learning!
