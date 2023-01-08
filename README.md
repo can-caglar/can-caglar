@@ -12,7 +12,7 @@
 
 ## :heart: Passion
 
-- Bare-metal C using STM32, ESP32, ATxMega
+- Bare-metal C (with the STM32 family in particular!)
 - Embedded Test Driven Development (TDD)
 - Realtime embedded software using FreeRTOS
 - Embedded OOP design with C++
