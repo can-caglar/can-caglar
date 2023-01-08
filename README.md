@@ -25,5 +25,5 @@ I love having the freedom to express creatively, the challenge of designing solu
 - Software Development Engineer (2021 - Present)
 - Electronic Design Engineer (2020 - 2021)
 - Research & Development Engineer (2016 - 2020)
-- MEng (Hons) Electronic & Electrical Engineering (2012 - 2016)
+- MEng (Hons) Electronic & Electrical Engineering at the University of Leeds (2012 - 2016)
 
