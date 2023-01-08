@@ -1,11 +1,5 @@
 # :wave: Welcome to my Github repository
 
-## :book: Skills
-- Bare-metal C experience with STM32, ESP32, ATxMega
-- Proficient in embedded Test Driven Development (TDD)
-- Experienced with FreeRTOS
-- OOP design patterns with C++
-
 ## :computer: Project Highlights
 - [Serial Snooper](https://github.com/can-caglar/Data-Logger-STM32): An RS-232 logger which saves data to an SD card using an STM32, developed via TDD.
 - [ESP32 Based Dash Cam](https://github.com/can-caglar/dashcam): [In progress] A low-cost dash-cam based on an ESP32.
@@ -17,6 +11,11 @@
 - Digital electronics
 
 ## :heart: Passion
+
+- Bare-metal C using STM32, ESP32, ATxMega
+- Embedded Test Driven Development (TDD)
+- Realtime embedded software using FreeRTOS
+- Embedded OOP design with C++
 
 I am passionate about writing clean, efficient, and well-tested code for embedded systems. 
 
