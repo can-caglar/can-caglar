@@ -1,4 +1,4 @@
-# :wave: Hi there! I'm an Embedded Software Engineer
+# :wave: Welcome to my Github Repository
 
 ## :book: Skills
 - Bare-metal C: STM32, ESP32, ATxMega
