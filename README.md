@@ -1,4 +1,4 @@
-# :wave: Welcome to my Github Repository
+# :wave: Welcome to my Github repository
 
 ## :book: Skills
 - Bare-metal C: STM32, ESP32, ATxMega
