@@ -15,7 +15,7 @@
 - Software Development Engineer at Buhler Group (2021-Present)
 - Electronic Design Engineer at Avire Global (2020- 2021)
 - Research & Development Engineer at Performance Designed Products (2016 - 2020)
-- MEng (Hons) Electronic & Electrical Engineering at The University of Leeds (2012 - 2016)
+- MEng (Hons) Electronic & Electrical Engineering at the University of Leeds (2012 - 2016)
 
 ## :notebook: Currently Learning
 - Concurrency design patterns
@@ -32,4 +32,4 @@
 
 I am passionate about writing clean, efficient, and well-tested code for embedded systems. 
 
-I love having the freedom to express creatively, and the challenge of designing solutions for complex problems, and the satisfaction of seeing my code be used in beneficial ways.
+I love having the freedom to express creatively, the challenge of designing solutions for complex problems, and the satisfaction of seeing my code come to life to be used in beneficial ways.
