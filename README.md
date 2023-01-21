@@ -1,4 +1,4 @@
-# :wave: Welcome to my Github repository
+# :wave: Welcome to my Github Repository
 
 ## :computer: Project Highlights
 - [Serial Snooper](https://github.com/can-caglar/Data-Logger-STM32): An RS-232 logger which saves data to an SD card using an STM32, developed via TDD.
